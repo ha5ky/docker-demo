@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="39.106.171.224" id="8a1cd396-398a-400c-84ce-f06f8f42e851" port="22" customName="aliyun" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="aliyun" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
